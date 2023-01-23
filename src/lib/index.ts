@@ -1,1 +1,1 @@
-export { Greeter } from './Example'
+export { Greeter } from './Example.js'
